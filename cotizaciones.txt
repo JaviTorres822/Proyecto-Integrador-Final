@@ -1,0 +1,16 @@
+EMPRESAS:
+1. Degso
+2. Metrologic
+
+PRODUCTOS:
+1. Fuente
+2. Resistencias
+3. LEDS
+
+PRECIO POR PRODUCTO:
+Fuente - Degso: 8.00
+Fuente - Metrologic: 7.00
+Resistencias - Degso: 2.00
+Resistencias - Metrologic: 0.50
+LEDS - Degso: 1.00
+LEDS - Metrologic: 1.60

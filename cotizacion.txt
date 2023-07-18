@@ -1,0 +1,29 @@
+EMPRESAS:
+1. Degso
+2. Metrologic
+
+PRODUCTOS:
+1. Flexnet
+2. Resistencias
+3. LEDS
+4. Potenciometro
+
+PRECIO POR PRODUCTO:
+Flexnet - Degso: 5.00
+Flexnet - Metrologic: 3.00
+Resistencias - Degso: 2.00
+Resistencias - Metrologic: 0.50
+LEDS - Degso: 1.00
+LEDS - Metrologic: 1.60
+Potenciometro - Degso: 3.00
+Potenciometro - Metrologic: 2.00
+
+CANTIDAD DE COMPRAS:
+Flexnet: 4
+Resistencias: 10
+LEDS: 6
+Potenciometro: 3
+
+DESCUENTOS:
+Degso: 15.00%
+Metrologic: 10.00%
